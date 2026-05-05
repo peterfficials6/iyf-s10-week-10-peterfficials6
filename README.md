@@ -4,9 +4,9 @@ A comprehensive REST API built with Node.js and Express.js, featuring a complete
 
 ## Author
 
-**Name:** Peterfficials  
+**Name:** Peter  
 **GitHub:** [peterfficials6](https://github.com/peterfficials6)  
-**Email:** peterfficials6@example.com  
+**Email:** peterfficials6@gmail.com  
 
 ##  Project Description
 
