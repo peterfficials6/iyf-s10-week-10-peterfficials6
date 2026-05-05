@@ -2,11 +2,7 @@
 
 A comprehensive REST API built with Node.js and Express.js, featuring a complete community platform with posts, users, and comments functionality.
 
-## Author
-
-**Name:** Peter  
-**GitHub:** [peterfficials6](https://github.com/peterfficials6)  
-**Email:** peterfficials6@gmail.com  
+## Author 
 
 ##  Project Description
 
@@ -229,6 +225,11 @@ This project is open source and available under the [MIT License](LICENSE).
 - Infinite Youth Foundation (IYF) for the learning opportunity
 - Express.js documentation and community
 - All the online resources and tutorials that helped in building this project
+
+
+**Name:** Peter  
+**GitHub:** [peterfficials6](https://github.com/peterfficials6)  
+**Email:** peterfficials6@gmail.com  
 
 ---
 
