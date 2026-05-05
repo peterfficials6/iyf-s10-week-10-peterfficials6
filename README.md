@@ -1,18 +1,18 @@
-# CommunityHub API - Week 10 Challenge
+# CommunityHub API - Week 10 
 
 A comprehensive REST API built with Node.js and Express.js, featuring a complete community platform with posts, users, and comments functionality.
 
-## 🚀 Author
+## Author
 
 **Name:** Peterfficials  
 **GitHub:** [peterfficials6](https://github.com/peterfficials6)  
 **Email:** peterfficials6@example.com  
 
-## 📋 Project Description
+##  Project Description
 
 CommunityHub API is a full-featured backend application that demonstrates advanced Node.js and Express.js concepts. This project includes a main API with structured architecture and five daily challenges that progressively build up complexity.
 
-## ✨ Features
+##  Features
 
 ### Main Project (Port 3000)
 - **Posts Management**: Create, read, update, delete posts
@@ -29,7 +29,7 @@ CommunityHub API is a full-featured backend application that demonstrates advanc
 - **Day 4**: Logger Middleware - File-based logging system (Port 3004)
 - **Day 5**: Comments Endpoint - Nested CRUD operations (Port 3005)
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Node.js** - JavaScript runtime
 - **Express.js** - Web framework
@@ -38,7 +38,7 @@ CommunityHub API is a full-featured backend application that demonstrates advanc
 - **cors** - Cross-Origin Resource Sharing
 - **File System** - For logging functionality
 
-## 🚀 How to Run
+##  How to Run
 
 ### Prerequisites
 - Node.js installed on your machine
@@ -96,7 +96,7 @@ node server.js
 # Visit: http://localhost:3005
 ```
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 iyf-s10-week-10-peterfficials6/
@@ -117,7 +117,7 @@ iyf-s10-week-10-peterfficials6/
 └── .env.example          # Environment template
 ```
 
-## 🎯 API Endpoints
+##  API Endpoints
 
 ### Main Project
 - `GET /api/posts` - Get all posts (with filtering/sorting)
@@ -133,7 +133,7 @@ iyf-s10-week-10-peterfficials6/
 - **Day 3**: `GET /api/posts?author=John&sort=newest&page=1&limit=10`
 - **Day 5**: `GET/POST/DELETE /api/posts/:id/comments`
 
-## 📚 Lessons Learned
+##  Lessons Learned
 
 ### Technical Skills
 1. **Express.js Architecture**: Learned proper separation of concerns with routes, controllers, and middleware
@@ -150,7 +150,7 @@ iyf-s10-week-10-peterfficials6/
 3. **Nested Resources**: Managed complex relationships (posts with comments)
 4. **Modular Project Structure**: Organized code for scalability and maintainability
 
-## 🏆 Challenges Faced
+##  Challenges Faced
 
 ### Technical Challenges
 1. **File Encoding Issues**: Encountered and resolved file encoding problems when creating files via terminal
@@ -165,7 +165,7 @@ iyf-s10-week-10-peterfficials6/
 3. **Environment Configuration**: Set up proper environment variable management
 4. **Project Organization**: Restructured project multiple times for optimal organization
 
-## 🔧 Development Workflow
+##  Development Workflow
 
 ### Git Workflow
 ```bash
@@ -189,7 +189,7 @@ git pull origin main
 - **Environment Variables**: Secure configuration management
 - **Documentation**: Well-documented code and API endpoints
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 ### Planned Features
 1. **User Authentication**: Add JWT-based authentication
@@ -207,7 +207,7 @@ git pull origin main
 4. **Security**: Implement security best practices
 5. **Monitoring**: Add application monitoring and health checks
 
-## 📊 Project Statistics
+##  Project Statistics
 
 - **Total Files**: 30+
 - **Lines of Code**: 3000+
@@ -216,15 +216,15 @@ git pull origin main
 - **Middleware Functions**: 4
 - **Development Time**: 1 week
 
-## 🤝 Contributing
+##  Contributing
 
 This project is part of the Infinite Youth Foundation (IYF) Week 10 challenge. Feel free to fork, modify, and extend the functionality.
 
-## 📄 License
+##  License
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Infinite Youth Foundation (IYF) for the learning opportunity
 - Express.js documentation and community
