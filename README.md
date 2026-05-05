@@ -2,7 +2,6 @@
 
 A comprehensive REST API built with Node.js and Express.js, featuring a complete community platform with posts, users, and comments functionality.
 
-## Author 
 
 ##  Project Description
 
@@ -226,6 +225,7 @@ This project is open source and available under the [MIT License](LICENSE).
 - Express.js documentation and community
 - All the online resources and tutorials that helped in building this project
 
+## Author
 
 **Name:** Peter  
 **GitHub:** [peterfficials6](https://github.com/peterfficials6)  
